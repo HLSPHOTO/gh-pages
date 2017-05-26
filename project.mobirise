@@ -8,9 +8,13 @@
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 11,
+    "uniqCompNum": 12,
     "versionPublish": "3.12.1",
-    "path": "@PROJECT_PATH@"
+    "path": "@PROJECT_PATH@",
+    "favicon": "",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
@@ -209,11 +213,11 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>ADDRESS</strong><br><br><br>\n<strong>CONTACTS</strong><br>\nEmail:&nbsp;<br>\nPhone:&nbsp;<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><br></li></ul>",
+          "text1": "<strong style=\"line-height: 1.7em;\">LOCATION</strong><br><strong style=\"line-height: 1.7em;\">Málaga, Spain</strong><br><br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://heatherleahsmith.wordpress.com/\" class=\"text-gray\">HLS Travel Blog</a></li><li><a href=\"https://www.facebook.com/HLS-Photo-288626304486297\" target=\"_blank\" class=\"text-gray\">Facebook</a></li><li><a href=\"https://www.linkedin.com/in/heather-smith-965419b8/\" target=\"_blank\" class=\"text-gray\">LinkedIn</a></li></ul>",
           "form": {
             "title": "MESSAGE",
-            "action": "",
+            "action": "smith.heatherleah@gmail.com",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
