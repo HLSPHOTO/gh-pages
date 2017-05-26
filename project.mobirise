@@ -34,6 +34,14 @@
           ],
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_name": "header4",
+          "_styles": {
+            "H1": {
+              "text-align": "right",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "color": "#6b6b6b"
+            }
+          },
           "_anchor": "header4-a",
           "_params": {
             "parallax": true,
@@ -56,15 +64,7 @@
           },
           "title": "HLS PHOTO",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
-          "_styles": {
-            "H1": {
-              "text-align": "right",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "color": "#6b6b6b"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>"
         },
         {
           "_inherit": "menu",
@@ -193,7 +193,7 @@
           ],
           "_name": "content1",
           "_anchor": "content1-8",
-          "text": "<p>Heather Smith is an American photographer living in Málaga, Spain. Armed with a camera and a keen eye, she captures stunning portraits which are brought to life by her creative direction. Heather has a deep affection for the art of photography, both professionally and as a hobbyist. Using state of the art equipment and taking care when making her compositions, she is able to produce some outstanding photos, perfect for the family album, stock, or publication.</p>"
+          "text": "<p>Heather Smith is an American photographer living in Málaga, Spain. Armed with a camera and a keen eye, she captures stunning portraits which are brought to life by her creative direction. Heather has a deep affection for the art of photography, both professionally and personally. Using state of the art equipment and taking care when making her compositions, she is able to produce some outstanding photos, perfect for the family album, stock, or publication.</p>"
         },
         {
           "_tags": [
